@@ -1,5 +1,4 @@
-# pwn.college Challenges - Digesting Documentation and Practice Piping
-
+# pwn.college Challenges - Digesting Documentation
 ## Completed Challenges and Flags
 
 ### Digesting Documentation
